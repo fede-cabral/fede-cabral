@@ -4,7 +4,7 @@ Estudiante de la Tecnicatura en Desarrollo de Software en ISTEA (2do cuatrimestr
 
 ## Tecnologías con las que estoy trabajando
 - HTML, CSS
-- (sumá lo que estés viendo ahora)
+- ahora me encuentro en el segundo cuatrimestres donde se va a poner en practica el conocimiento de primer cuatrimestre.
 
 ## Contacto
 - LinkedIn: https://www.linkedin.com/in/federico-cabral-27660b221/
